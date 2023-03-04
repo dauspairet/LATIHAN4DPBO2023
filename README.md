@@ -12,7 +12,7 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ### Run Code
 <b>Python</b><br>
 1. Buka terminal pada lokasi source code
-2. Kemudian, ketik 'python main.py'
+2. Kemudian, ketik `python main.py`
 
 <br><b>C++</b><br>
 1. Buka terminal pada lokasi source code
