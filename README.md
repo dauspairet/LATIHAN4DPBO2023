@@ -10,7 +10,7 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 3. Mahasiswa dan Dosen <i>has a</i> atau <i>composite</i> Course dan Program Studi karena masing-masing mahasiswa dan dosen memiliki jurusan serta mata kuliah yang diikuti.
 
 ### Run Code
-<br><b>Python</b><br>
+<b>Python</b><br>
 1. Buka terminal pada lokasi source code
 2. Kemudian, ketik 'python main.py'
 
@@ -20,7 +20,7 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 3. Kemudian ketik `main`
 
 ### Output
-<b><br><br> > Data Mahasiswa</b><br><br>
+<b> > Data Mahasiswa</b><br><br>
 ![alt text](https://github.com/dauspairet/LATIHAN4DPBO2023/blob/main/cpp/screenshot/cpp1.png)
 <br><br><b> > Data Dosen</b><br><br>
 ![alt text](https://github.com/dauspairet/LATIHAN4DPBO2023/blob/main/cpp/screenshot/cpp2.png)
