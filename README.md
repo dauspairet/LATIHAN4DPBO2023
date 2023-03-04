@@ -6,7 +6,7 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN4DPBO2023/main/UML.png)
 <br><b>Deskripsi:</b><br>
 1. Human merupakan parent dari SivitasAkademik karena dalam kasus ini Mahasiswa dan Dosen merupakan Human(manusia) yang memiliki atribut asal universitas dan email edu sehingga adanya hubungan antara Human dan SivitasAkademik.
-2. SivitasAkademik merupakan parent dari Mahasiswa dan Dosen karena kedua kelas tersebut memiliki hubungan terhadapa atribut yang dimiliki oleh SivitasAkademik, yaitu asal universitas dan email edu.
+2. SivitasAkademik merupakan parent dari Mahasiswa dan Dosen karena kedua kelas tersebut memiliki hubungan terhadap atribut yang dimiliki oleh SivitasAkademik, yaitu asal universitas dan email edu.
 3. Mahasiswa dan Dosen <i>has a</i> atau <i>composite</i> Course dan Program Studi karena masing-masing mahasiswa dan dosen memiliki jurusan serta mata kuliah yang diikuti.
 
 ### Run Code
