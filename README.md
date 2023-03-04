@@ -16,8 +16,8 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 <br><b>C++</b><br>
 1. Buka terminal pada lokasi source code
-2. Kemudian compile, ketik 'g++ * .cpp -o main'
-3. Run 'main'
+2. Compile, ketik `g++ *.cpp -o main`
+3. Kemudian ketik `main`
 
 ### Output
 <b><br><br> > Data Mahasiswa</b><br><br>
