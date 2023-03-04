@@ -4,12 +4,12 @@ saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ###UML Class Diagram
 ![alt text](https://raw.githubusercontent.com/dauspairet/LATIHAN4DPBO2023/main/UML.png)
-<b>Deskripsi</b>
+<br><b>Deskripsi</b><br>
 
-###Output
-<b>Data Mahasiswa</b>
+###Output<br>
+<b>Data Mahasiswa</b><br>
 ![alt text](https://github.com/dauspairet/LATIHAN4DPBO2023/blob/main/cpp/screenshot/cpp1.png)
-<b>Data Dosen</b>
+<br><b>Data Dosen</b><br>
 ![alt text](https://github.com/dauspairet/LATIHAN4DPBO2023/blob/main/cpp/screenshot/cpp2.png)
-<b>Course dan Program Studi</b>
+<br><b>Course dan Program Studi</b><br>
 ![alt text](https://github.com/dauspairet/LATIHAN4DPBO2023/blob/main/cpp/screenshot/cpp3.png)
